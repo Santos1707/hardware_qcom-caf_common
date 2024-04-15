@@ -14,4 +14,4 @@ else
 endif
 endif
 
--include device/evolution/sepolicy/qcom/sepolicy.mk
+-include device/lineage/sepolicy/qcom/sepolicy.mk
